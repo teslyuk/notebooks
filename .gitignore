@@ -130,3 +130,5 @@ dmypy.json
 
 # personal
 spoken_language_identification/ckpt
+spoken_language_identification/.DS_Store
+.DS_Store
