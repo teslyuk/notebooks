@@ -3,3 +3,4 @@ speechbrain
 matplotlib
 numpy
 librosa
+torch
