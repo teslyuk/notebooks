@@ -52,7 +52,7 @@ Khmer
 Kannada
 Korean
 Latin
-lm
+Luxembourgish
 Lingala
 Lao
 Lithuanian
