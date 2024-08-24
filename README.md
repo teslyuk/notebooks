@@ -1,6 +1,6 @@
 ## Notebooks
 
-Repo for random scripts and notebooks.
+Repo for random Jupyter Notebooks.
 
 ### License
 BSD.
