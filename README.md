@@ -3,4 +3,4 @@
 Repo for random Jupyter Notebooks.
 
 ### License
-BSD.
+BSD
